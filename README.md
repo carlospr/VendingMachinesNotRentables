@@ -5,8 +5,8 @@ This is just a simple mod to avoid vending machines in trader being rented by pl
 Compatible with version game: **v.1.1 (b14)**
 
 **Screenshot**
-![image](https://github.com/user-attachments/assets/1ccdb851-fac9-4409-82f8-ca2ea2f1a7ee)
 
+![7DaysToDie_ceRBGSrGvT](https://github.com/user-attachments/assets/0840de20-1dd3-4453-8f00-ea0e4084d9bd)
 
 
 
