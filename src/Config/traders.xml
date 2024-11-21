@@ -1,0 +1,7 @@
+<configs>
+	<setattribute
+        xpath="/traders/trader_info[@id='5']"
+        name="rentable">
+        false
+    </setattribute>
+</configs>	

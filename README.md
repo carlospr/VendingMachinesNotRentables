@@ -1,2 +1,2 @@
-# VendingMachinesNotRentables
+# RemoveRentedMachines
  
