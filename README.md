@@ -19,7 +19,7 @@ To be safe, just use it when you start a new game and not later ;)
 
 **How to install it**
 
-- [https://github.com/carlospr/VendingMachinesNotRentables/raw/refs/heads/main/dist/VendingMachinesNotRentables.v2.1.zip](Download the latest version of the mod)
+- [Download mod](https://github.com/carlospr/VendingMachinesNotRentables/raw/refs/heads/main/dist/VendingMachinesNotRentables.v2.1.zip)
 - In Steam, right-click on 7 Days to Die, choose Properties
 - Click on the Local Files tab and click Browse Local Files
 - Open the folder named Mods (create if if it does not exist)
