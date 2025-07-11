@@ -16,3 +16,11 @@ Compatible with version game: **v.2.1 (b5)**
 Do not put this mod when your world has vending machines already rented by players, it could corrupt your game!
 To be safe, just use it when you start a new game and not later ;)
 ==============================================================================================================
+
+**How to install it**
+
+- Download the latest version https://github.com/carlospr/VendingMachinesNotRentables/blob/main/dist/VendingMachinesNotRentables.v2.1.zip
+- In Steam, right-click on 7 Days to Die, choose Properties
+- Click on the Local Files tab and click Browse Local Files
+- Open the folder named Mods (create if if it does not exist)
+- Unzip the file into that Mods folder
