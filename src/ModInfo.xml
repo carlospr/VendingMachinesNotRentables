@@ -2,8 +2,8 @@
 <xml>
         <Name value="VendingMachinesNotRentables" />
         <Author value="Carlos" />
-        <Description value="Just avoid to rent Vending Machines in traders" />
+        <Description value="Just avoid to rent Vending Machines in traders. Compatible con version 1.x, 2.0, 2.1." />
         <DisplayName value="VendingMachinesNotRentables" />
-        <Version value="1.0" />
+        <Version value="2.0" />
         <Website value="https://github.com/carlospr/VendingMachinesNotRentables" />
 </xml>
