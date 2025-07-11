@@ -2,11 +2,12 @@
  
 This is just a simple mod to avoid vending machines in trader being rented by players!
 
-Compatible with version game: **v.1.1 (b14)**
+Compatible with version game: **v.2.1 (b5)**
 
 **Screenshot**
 
-![7DaysToDie_ceRBGSrGvT](https://github.com/user-attachments/assets/0840de20-1dd3-4453-8f00-ea0e4084d9bd)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f349f6b0-2f99-4df9-b46d-307c960d3d80" />
+
 
 
 
