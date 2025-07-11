@@ -1,4 +1,4 @@
-# RemoveRentedMachines
+# VendingMachinesNotRentables
  
 This is just a simple mod to avoid vending machines in trader being rented by players!
 
