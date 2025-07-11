@@ -2,7 +2,7 @@
  
 This is just a simple mod to avoid vending machines in trader being rented by players!
 
-Compatible with version game: **v.2.1 (b5)**
+Tested with version game: **v.2.1 (b5)** but also compatible with versions 1.x and 2.0.
 
 **Screenshot**
 
