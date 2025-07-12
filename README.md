@@ -1,4 +1,4 @@
-# RemoveRentedMachines
+# VendingMachinesNotRentables
  
 This is just a simple mod to avoid vending machines in trader being rented by players!
 
@@ -24,3 +24,7 @@ To be safe, just use it when you start a new game and not later ;)
 - Click on the Local Files tab and click Browse Local Files
 - Open the folder named Mods (create if if it does not exist)
 - Unzip the file into that Mods folder
+
+**More**
+
+If you prefer, you can find this mod aswell in [Nexus page](https://www.nexusmods.com/7daystodie/mods/7978)
